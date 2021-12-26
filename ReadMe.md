@@ -98,16 +98,16 @@ void Update(){
 
 ※内臓がパズルになっているもので、面白そうなのでAmazonで買いました。
 
-![photo](.\doc\photo.gif)
+![photo](./doc/photo.gif)
 
 <br>
 上の回転動画から、約50枚の静止画を抜き出しして、3df Zephyrにかけたところ、以下のようなモデルが出来上がりました。うーん・・・溶けている感じ。
 
-![3df>](.\doc\3df.gif)
+![3df](./doc/3df.gif)
 
 画像を対比すると、以下のとおりです。
 
-![比較](.\doc\比較.bmp)
+![比較](./doc/比較.bmp)
 
 余談ですが、NVIDIA系のGPUがあるとCUDAの使用により高速化できるようです。
 
